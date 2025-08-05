@@ -1,3 +1,5 @@
+setuptools>=68.0.0
+wheel
 streamlit
 yfinance
 pandas
@@ -6,12 +8,11 @@ matplotlib
 seaborn
 scikit-learn
 pmdarima
-setuptools>=68.0.0
-wheel
 prophet
 statsmodels
 keras
 tensorflow
 plotly
+
 
 
