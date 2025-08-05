@@ -6,10 +6,12 @@ matplotlib
 seaborn
 scikit-learn
 pmdarima
-setuptools>=65.5.0
+setuptools>=68.0.0
+wheel
 prophet
 statsmodels
 keras
 tensorflow
 plotly
+
 
