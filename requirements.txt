@@ -6,8 +6,10 @@ matplotlib
 seaborn
 scikit-learn
 pmdarima
+setuptools>=65.5.0
 prophet
 statsmodels
 keras
 tensorflow
 plotly
+
